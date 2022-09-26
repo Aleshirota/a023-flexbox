@@ -4,6 +4,9 @@
 }
 
 main{
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
   padding-top: 20px;
   display: flex;
 }
